@@ -7,4 +7,5 @@
 
 ### If you are beginer like me, this repository will help you.**Have a nice day!**      
 
+#### :warning: The Python logo is a trademark of the Python Software Foundation, which is responsible for defending against any damaging or                 confusing uses of the trademark.
 
