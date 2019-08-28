@@ -1,5 +1,5 @@
 # Python3
-<p> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></img> </p>
+<p> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></p>
 
 ## Hey Reader! 
 
