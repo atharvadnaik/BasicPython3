@@ -17,5 +17,4 @@ if str(a) == str(b):
 else:
     print("You messed up :(...SHA-256 checksum unverified")
 end = timer()
-time = end - start
-print(f"Time elapsed: {time}")
+print(f"Time elapsed: {end - start}")
