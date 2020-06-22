@@ -6,22 +6,22 @@ If n is odd: multiply it by 3 and add 1
 Eventually these process will continue till number diverges to 1
 '''
 while True:
-    x = int(input("Enter any natural number "))
-    if x <= 0:
+    num = int(input("Enter any natural number "))
+    if num <= 0:
         print("Natural Numbers are positive integers greater than 1")
         continue
     else:
         break
-t = 0
-if x == 1:
+counter = 0
+if num == 1:
     print("Single iteration and we have 1...Cheers!")
 else:    
-    while x != 1:
-        if x % 2 == 0:
-            x = x/2
-            t += 1
+    while num != 1:
+        if num % 2 == 0:
+            num = num/2
+            counter += 1
         else:
-            x = 3*x+1
-            t +=1
-        print(int(x))
-    print(f"The number of iterations is {t}")
+            num = 3*num+1
+            counter +=1
+        print(int(num))
+    print(f"The number of iterations is {counter}")
