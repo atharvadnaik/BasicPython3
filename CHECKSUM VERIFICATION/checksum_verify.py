@@ -1,5 +1,4 @@
 import hashlib
-import keyboard
 import os
 
 while True:
